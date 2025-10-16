@@ -232,7 +232,7 @@ body, ul, li, p, label, input, div {
   width: fit-content;
   padding: 10px 15px;
   border-radius: 10px;
-  background-color: #27ad73d0;
+  background-color: #27ad73b0;
 }
 .title-product b{
   font-size: 17px;
@@ -250,6 +250,11 @@ body, ul, li, p, label, input, div {
 
 
 /* start cart  */
+.triangle{
+  width: 100%;
+  border: none;
+  border: 1px solid rgba(0, 0, 0, 0.089);
+}
 .shopping-cart{
 	padding-bottom: 50px;
 	font-family: 'Montserrat', sans-serif;
